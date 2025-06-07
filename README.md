@@ -4,6 +4,7 @@
  main.m generates all the MATLAB graphs used in the report. 
  <br/> 
  the drone simulator code in drone_animation_2D.m and drone_animation_2D.m were given as a part of the assignment,
- we did not write it on our own, we answered the questions present in the report (up to corrections in the questionnaire).
+ we did not write them! <br/>
+ we answered the questions present in the report (up to corrections in the questionnaire).
  part 1 of 2. 
  
